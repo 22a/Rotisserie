@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Rotisserie Image Rotator",
   "short_name": "Rotisserie",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Image Rotation Toolkit",
   "author": "Peter Meehan",
   "homepage_url": "https://github.com/22a/Rotisserie",
