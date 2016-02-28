@@ -1,0 +1,36 @@
+body{
+  background-color: #3ea7d5;
+  color: white;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+}
+.optionBody{
+  text-align: center
+}
+.optionContainer{
+  width: 400px;
+  margin-top: 100px;
+  display: inline-block;
+  border-radius: 3px;
+  background: white;
+}
+.optionContent{
+  text-align: center;
+  margin: 40px;
+  color: #333;
+}
+.optionLogo{
+  width: 64px;
+  height: 64px;
+}
+.optionHeader{
+  display: inline-block;
+  font-size: 36px;
+  transform: translateY(-40%);
+}
+.optionButton{
+  background: white;
+  border: 1px solid #3ea7d5;
+  border-radius: 3px;
+  outline: none;
+}

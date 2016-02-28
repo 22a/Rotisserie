@@ -6,6 +6,7 @@
   "description": "Image Rotation Toolkit",
   "author": "Peter Meehan",
   "homepage_url": "https://github.com/22a/Rotisserie",
+  "options_page": "options.html",
   "icons": {
     "16": "img/icon16.png",
     "48": "img/icon48.png",
@@ -20,7 +21,8 @@
     "default_popup": "popup.html"
   },
   "permissions": [
-    "contextMenus"
+    "contextMenus",
+    "storage"
   ],
   "background": {
     "persistent": false,
